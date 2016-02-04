@@ -1,19 +1,23 @@
 <!-- Two -->
   <section id="two" class="wrapper style2 alt">
     <div class="inner">
-      <div class="spotlight">
-        <div class="image">
-          <img src="images/pic01.jpg" alt="" />
+
+      {% for post in site.posts %}
+        <div class="spotlight">
+          <div class="image">
+            {{ post.flickr_album }}
+          </div>
+          <div class="content">
+            <h3>{{ post.title }}</h3>
+              {{ post.excerpt }}
+            <ul class="actions">
+              <li><a class="button alt" href="{{ post.url }}">Περισσότερα</a></li>
+            </ul>
+          </div>
         </div>
-        <div class="content">
-          <h3>Ipsum pharetra tempus</h3>
-          <p>Lorem ipsum nisl sed cursus magna et amet veroeros. Sed phasellus malesuada quis orci. Pellentesque eget consequat.</p>
-          <ul class="actions">
-            <li><a href="#" class="button alt">Details</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="spotlight">
+
+      {% endfor %}
+      <!-- <div class="spotlight">
         <div class="image">
           <img src="images/pic02.jpg" alt="" />
         </div>
@@ -39,6 +43,6 @@
       </div>
       <ul class="actions special">
         <li><a href="#" class="button alt">Ipsum magna tempus</a></li>
-      </ul>
+      </ul> -->
     </div>
   </section>

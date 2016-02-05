@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Εκδήλωση"
-flickr_album: '<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/14990981@N08/albums/72157653305740773" title="paplomatoudes"><img src="https://farm4.staticflickr.com/3685/18908448144_a6d219de7d_z.jpg" width="640" height="352" alt="paplomatoudes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
+flickr_album: '<a data-flickr-embed="true"  href="https://www.flickr.com/photos/134649511@N07/albums/72157664342803505" title="Εκδήλωση 4ης Ιουλίου 2015"><img src="https://farm2.staticflickr.com/1456/24805027546_fee514c659_c.jpg" width="800" height="440" alt="Εκδήλωση 4ης Ιουλίου 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
 ---
 
 <p>

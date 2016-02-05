@@ -2,45 +2,24 @@
   <section id="two" class="wrapper style2 alt">
     <div class="inner">
 
-      {% for post in site.posts %}
+      {% for post in site.posts limit:3 %}
         <div class="spotlight">
           <div class="image">
             {{ post.flickr_album }}
           </div>
           <div class="content">
             <h3>{{ post.title }}</h3>
+            <p>
+              {{ post.date | date_to_string }}
+            </p>
               {{ post.excerpt }}
             <ul class="actions">
-              <li><a class="button alt" href="{{ post.url }}">Περισσότερα</a></li>
+              <li><a class="button alt" href="{{ post.url }}">Περισσοτερα</a></li>
             </ul>
           </div>
         </div>
 
       {% endfor %}
-      <!-- <div class="spotlight">
-        <div class="image">
-          <img src="images/pic02.jpg" alt="" />
-        </div>
-        <div class="content">
-          <h3>Magna consequat felis</h3>
-          <p>Lorem ipsum nisl sed cursus magna et amet veroeros. Sed phasellus malesuada quis orci. Pellentesque eget consequat.</p>
-          <ul class="actions">
-            <li><a href="#" class="button alt">Details</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="spotlight">
-        <div class="image">
-          <img src="images/pic03.jpg" alt="" />
-        </div>
-        <div class="content">
-          <h3>Vitae placerat adipiscing</h3>
-          <p>Lorem ipsum nisl sed cursus magna et amet veroeros. Sed phasellus malesuada quis orci. Pellentesque eget consequat.</p>
-          <ul class="actions">
-            <li><a href="#" class="button alt">Details</a></li>
-          </ul>
-        </div>
-      </div>-->
       <ul class="actions special">
         <li><a href="#" class="button alt">Το καταστατικο μας <i class="fa fa-download"></i></a></li>
         <li><a href="#" class="button alt">Οι εκπτωσεις μας <i class="fa fa-download"></i></a></li>

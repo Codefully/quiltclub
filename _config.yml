@@ -1,6 +1,6 @@
 ---
-title: Greek Quilting Club
-timezone: UTC
+title: Ελληνικός Σύλλογος Πατσγουωρκ - Hellenic Patchwork Guild
+timezone: Europe/Athens
 collections:
   posts:
     title: Posts
@@ -13,7 +13,7 @@ description: 'A club where quilters from allover Greece can discuss and create b
   works of art!
 
 '
-baseurl: ''
+baseurl: 
 url: http://paplomatoudes.gr
-facebook_url: https://www.facebook.com/groups/430185743779860
+facebook_url: https://www.facebook.com/groups/360278980834385/
 markdown: kramdown

@@ -1,8 +1,6 @@
 ---
 title: Δωρεάν Μαθήματα Νοεμβρίου
 date: 2016-11-11 13:37:00 +02:00
-categories:
-- patchwork
 tags:
 - half square triangles
 - log cabin

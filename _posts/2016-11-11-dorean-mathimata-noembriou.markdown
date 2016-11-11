@@ -7,7 +7,7 @@ tags:
 - half square triangles
 - log cabin
 Field name:
-- https://www.flickr.com/photos/10554902@N05/albums/72157676323670416
+- 
 ---
 
 Καλησπέρα σας,

@@ -1,18 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Greek Quilting Club
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: paplomatoudes@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A club where quilters from allover Greece can discuss and create beautifull works of art!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://paplomatoudes.gr" # the base hostname & protocol for your site
-facebook_url: "https://www.facebook.com/groups/430185743779860"
+description: 'A club where quilters from allover Greece can discuss and create beautifull
+  works of art!
 
-# Build settings
+'
+baseurl: ''
+url: http://paplomatoudes.gr
+facebook_url: https://www.facebook.com/groups/430185743779860
 markdown: kramdown

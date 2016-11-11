@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Κοπή Πρωτοχρονιάτικης πίτας 2016
-flickr_album: <a data-flickr-embed="true" href="https://www.flickr.com/photos/134649511@N07/albums/72157661991818044" title="Κοπή Πρωτοχρονιάτικης πίτας 2016"><img src="https://farm2.staticflickr.com/1461/24421985949_2760593f8a_z.jpg" width="640" height="480" alt="Κοπή Πρωτοχρονιάτικης πίτας 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+date: 2016-02-05 00:00:00 Z
+layout: post
+flickr_album: <a data-flickr-embed="true" href="https://www.flickr.com/photos/134649511@N07/albums/72157661991818044"
+  title="Κοπή Πρωτοχρονιάτικης πίτας 2016"><img src="https://farm2.staticflickr.com/1461/24421985949_2760593f8a_z.jpg"
+  width="640" height="480" alt="Κοπή Πρωτοχρονιάτικης πίτας 2016"></a><script async
+  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 
 Ο Σύλλογος μας έκοψε την πίττα του το Σάββατο 30/1/2016 στo Black Duck στο κέντρο της Αθήνας. Για να δώσουμε μια μεγαλύτερη νότα χαράς και δημιουργικότητας στην ημέρα, συνδυάσαμε την κοπή πίττας με δωρεάν πρωινά workshops για τα μέλη μας. Τα workshops έγιναν (για τελευταία φορά μιας και σύντομα θα λειτουργήσει ο δικός μας χώρος) στο φιλόξενο χώρο που μας παραχωρήθηκε και ήταν πραγματικά υπέροχα! 

@@ -2,7 +2,10 @@
 title: Δωρεάν Μαθήματα Νοεμβρίου
 date: 2016-11-11 13:37:00 +02:00
 flickr_album:
-- 
+- '<a data-flickr-embed="true" href="https://www.flickr.com/photos/10554902@N05/albums/72157676323670416"
+  title="Δωρεάν μαθήματα Νοεμβρίου"><img src="//c3.staticflickr.com/6/5818/30797232562_2709384c04_m.jpg"
+  width="300" height="297" alt="01"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+  charset="utf-8"></script>  '
 layout: post
 ---
 
@@ -11,7 +14,7 @@ layout: post
 Τρίγωνα και log cabin
 
 Θα πρέπει να φέρετε
-•4 λευκά τετράγωνα 15\*\`15
+•4 λευκά τετράγωνα 15\*\15
 •4 μονόχρωμα 15*15 για τα τρίγωνα και
 •λωρίδες 5εκ*40εκ από 5 διαφορετικά χρώματα για το log cabin
 Η διεύθυνση του γραφείου είναι: Ζωοδόχου Πηγής 59 Και Δερβενίων στα Εξάρχεια.

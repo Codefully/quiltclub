@@ -4,10 +4,12 @@
 
       {% for post in site.posts limit:3 %}
         <div class="spotlight">
-          <div class="image">
-            {{ post.flickr_album }}
-          </div>
-          <div class="content">
+          {% if post.flickr_album %}
+            <div class="image">
+              {{ post.flickr_album }}
+            </div>
+          {% endif %}
+          <div {% if post.flickr_album %} class="content" {% endif %} >
             <h3>{{ post.title }}</h3>
             <p>
               {{ post.date | date_to_string }}
